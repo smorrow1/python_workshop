@@ -1,7 +1,5 @@
 # Python Workshop
 
-# Öffnen, um zu interaktivem Notebook zu gelangen
-
 # Hier geht's zu Kapitel 1
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_intro/master?filepath=Introduction.ipynb)
 
