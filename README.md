@@ -6,11 +6,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_workshop/master?filepath=Introduction%20-%20Funktionen%2C%20Klassen.ipynb)
 
 # Hier geht's zu Kapitel 3
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_intro/master?filepath=Introduction.ipynb)
 
 # Hier geht's zu Kapitel 4
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_intro/master?filepath=Introduction.ipynb)
 
 # Hier geht's zu Kapitel 5
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_intro/master?filepath=Introduction.ipynb)
 
