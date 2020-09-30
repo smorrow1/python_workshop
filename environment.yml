@@ -9,5 +9,5 @@ dependencies:
   - seaborn
   - pandas
   - scikit-learn
-  - pip:
-    - -r requirements.txt
+  #- pip:
+  #  - -r requirements.txt
