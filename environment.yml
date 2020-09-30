@@ -2,7 +2,7 @@ name: python-workshop
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - python
   - pip
   - numpy
   - scikit-learn
