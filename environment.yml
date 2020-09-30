@@ -2,6 +2,6 @@ name: python-workshop
 channels:
   - conda-forge
 dependencies:
-  - python=3.5
+  - python=3.6
   - pip:
     - -r requirements.txt
