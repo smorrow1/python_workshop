@@ -7,7 +7,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_workshop/master?filepath=Introduction%20-%20Funktionen%2C%20Klassen.ipynb)
 
 # Hier geht's zu Kapitel 3 - Datenvisualisierung
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_workshop/master?filepath=03_Dataviz_Introduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_workshop/masterurlpath=https%3A%2F%2Fgithub.com%2Fsmorrow1%2Fpython_workshop%2Fblob%2Fmaster%2F03_Dataviz_Introduction.ipynb)
 
 # Hier geht's zu Kapitel 4
 
