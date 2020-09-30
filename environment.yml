@@ -3,11 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - pip
   - numpy
-  - scikit-learn
+  - pip
   - matplotlib
   - seaborn
   - pandas
+  - scikit-learn
   - pip:
     - -r requirements.txt
