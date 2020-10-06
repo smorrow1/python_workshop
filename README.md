@@ -13,3 +13,4 @@
 
 # Hier geht's zu Kapitel 5
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smorrow1/python_workshop/master?filepath=03_Dataviz_Introduction.ipynb)
