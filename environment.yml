@@ -2,6 +2,12 @@ name: python-workshop
 channels:
   - conda-forge
 dependencies:
-  - python=3.5
+  - python
+  - numpy
+  - pip
+  - matplotlib
+  - seaborn
+  - pandas
+  - scikit-learn
   #- pip:
-    #- -r requirements.txt
+  #  - -r requirements.txt
